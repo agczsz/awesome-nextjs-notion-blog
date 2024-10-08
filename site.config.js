@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'aa5f58600b344ac8af7020023b7fc492',
+  rootNotionPageId: '11147fc871308054845ccd5cfbf01c01',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'AG',
-  domain: 'n.ag.cn.eu.org',
+  name: '二临团委の知识库',
+  domain: 'gdmu.886663.xyz',
   author: 'AG',
 
   // open graph metadata (optional)
-  description: 'AG: 专注硬核技术，校招打法，个人认知体系成长',
+  description: 'AG: 知识库',
   socialImageTitle: 'AG',
   socialImageSubtitle: 'Hello World! 👋',
 
